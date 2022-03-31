@@ -40,5 +40,3 @@ The `src/theme` subdirectory contains the swizzled React components from the Doc
 
 The `showcase.json` file contains the list of users that are highlighted in the React Native showcase.
 
-## 👏 Contributing
-

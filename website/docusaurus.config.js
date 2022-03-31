@@ -14,11 +14,11 @@ const commonDocsOptions = {
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'React Native',
-  tagline: 'A framework for building native apps using React',
-  organizationName: 'facebook',
-  projectName: 'react-native',
-  url: 'https://reactnative.dev',
+  title: 'Katonic Docs',
+  tagline: '',
+  organizationName: 'Katonic',
+  projectName: 'katonic-docs',
+  url: '/',
   baseUrl: '/',
   clientModules: [require.resolve('./snackPlayerInitializer.js')],
   trailingSlash: false, // because trailing slashes can break some existing relative links
